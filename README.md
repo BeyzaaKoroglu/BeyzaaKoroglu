@@ -1,6 +1,6 @@
 ### Hi there. 👋
 
-- ✨ I am Beyza Köroğlu.
+- ✨ I’m Beyza Köroğlu.
 - ✨ I’m interested in Web Development.
 - ✨ I’m currently learning ReactJS and Django
 
