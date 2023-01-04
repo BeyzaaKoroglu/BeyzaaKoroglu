@@ -112,7 +112,7 @@
   </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyzaaKoroglu&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyzaaKoroglu&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ![BeyzaaKoroglu's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=BeyzaaKoroglu&theme=midnight-purple&show_icons=true)
+stats](https://github-readme-stats.vercel.app/api?username=BeyzaaKoroglu&theme=github_dark&show_icons=true)
