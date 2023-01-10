@@ -84,6 +84,14 @@
       height="40"
     />
   </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+      alt="django"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
@@ -94,6 +102,14 @@
   </a>
 </p>
 <p>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg"
+      alt="docker"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
@@ -102,7 +118,7 @@
       height="40"
     />
   </a>
-		<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
       alt="git"
@@ -112,7 +128,7 @@
   </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyzaaKoroglu&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyzaaKoroglu&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ![BeyzaaKoroglu's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=BeyzaaKoroglu&theme=github_dark&show_icons=true)
+stats](https://github-readme-stats.vercel.app/api?username=BeyzaaKoroglu&theme=midnight-purple&show_icons=true)
